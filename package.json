@@ -1,0 +1,10 @@
+{
+  "name": "@superrb/cloudflare-worker-helpers",
+  "version": "1.0.0",
+  "description": "Helper methods for writing Cloudflare workers",
+  "main": "index.js",
+  "repository": "git@github.com:superrbstudio/cloudflare-worker-helpers.git",
+  "author": "James Dinsdale <hi@molovo.co>",
+  "license": "MIT",
+  "private": false
+}
